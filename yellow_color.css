@@ -1,0 +1,26 @@
+.dropdown-menu{
+    border-top:1px solid rgb(160, 189, 31); 
+    }
+      .option-box .color-option{
+     background-color:#333;
+     border:2px solid  rgb(160, 189, 31);   
+     }
+ 
+ .option-box   .check{
+  background-color: rgb(160, 189, 31); 
+ 
+  }
+ 
+ 
+  .testimonials  .carousel-indicators li{
+     border:1px solid  rgb(160, 189, 31); 
+    }
+ 
+    .footer h3 ,  .footer .copyright span{
+     color:rgb(160, 189, 31);
+ 
+    }
+ 
+    .option-box .color-option ul li{
+        background-color:rgb(160, 189, 31); 
+        }
